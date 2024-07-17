@@ -1,0 +1,8 @@
+{
+  "name": "@my-org/my-package-foo",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  }
+}

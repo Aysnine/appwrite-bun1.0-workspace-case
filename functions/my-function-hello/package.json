@@ -1,0 +1,11 @@
+{
+  "name": "@my-org/functions-my-function-foo",
+  "main": "src/main.ts",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@my-org/my-package-foo": "workspace:*"
+  }
+}
